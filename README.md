@@ -1,5 +1,4 @@
 # Absenteeism at Work
-(Brief Overview) 
 Appropriate staffing is critical to the success of any business. For a courier company, understaffing can result in delayed deliveries and reduce both the profit and reputation of the company. How can absences longer than one day be predicted to ensure adequate staffing?
 
 ## 1. Data 
