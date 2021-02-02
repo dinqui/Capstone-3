@@ -17,9 +17,16 @@ The dataset was already tidy as there was no missing values. Many of the demogra
 
 Each category was plotted compared to the number of absence instances and separated by whether the absence instance was less than a day or a day or more. This identified three abesnce reasons as causing a large number of absences that were less than a day - medical and dental consultations and physiotherapy. 
 
+![Plot of absences by reason description](https://github.com/dinqui/Capstone-3/blob/main/Images/download.png)
+
 It was also interesting to observe that Fridays and the summer did not have an overwhelmingly larger portion of absences compared to other days of the week or seasons. 
 
+![Plot of absences by day](https://github.com/dinqui/Capstone-3/blob/main/Images/Day.png)
+![Plot of absences by season](https://github.com/dinqui/Capstone-3/blob/main/Images/Seasons.png)
+
 Absences were also investigated at an employee level. While there were some interesting observations, due to the small number of employees (only 36) there was not adequate data to create a model based on individuals. For example, just a couple employees accounted for many of the absences. 
+
+![Plot of absences by employee](https://github.com/dinqui/Capstone-3/blob/main/Images/Employee.png)
 
 ## 4. Feature Engineering
 [Feature Engineering](https://github.com/dinqui/Capstone-3/blob/main/Capstone%203%20-%20Data%20Wrangling%20%26%20EDA%20.ipynb)
