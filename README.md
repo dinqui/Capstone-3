@@ -34,7 +34,7 @@ Absences were also investigated at an employee level. While there were some inte
 An indicator was created to identify whether an absence was for less than a day, or for a day or more, where a day is defined as eight hours. 
 
 ## 5. Modeling
-[Model Selection] (https://github.com/dinqui/Capstone-3/blob/main/Capstone%203%20-%20Pre-processing%20and%20Model%20.ipynb)
+[Model Selection](https://github.com/dinqui/Capstone-3/blob/main/Capstone%203%20-%20Pre-processing%20and%20Model%20.ipynb)
 
 Logistic Regression, Decision Trees, and Random Forest models were applied to the dataset.
 
@@ -45,7 +45,7 @@ Since understaffing is a more critical issue for a courier company, I choose the
 ## 6. Improvements 
 To continue this analysis in the future, I would consider the percentage of absences that are less than a day for each category. If certain categories are only associated with absences less than a day I would consider dropping those instances from the dataframe. 
 
-Additionally, the dataset did not include the year that the absence was recorded so acquiring timestamped data could help identify trends in absencnes over time. 
+Additionally, the dataset did not include the year that the absence was recorded so acquiring time stamped data could help identify trends in absences over time.
 
 Furthermore, since this project focused on the event level, it could be interesting to return to the data and create a model at the employee level. 
 
